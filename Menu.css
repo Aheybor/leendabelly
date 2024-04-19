@@ -143,7 +143,7 @@ footer {
   }
   
   a {
-    color: yellow ;
+    color: green ;
   }
   
   a:visited {
@@ -151,7 +151,7 @@ footer {
   }
   
   a:hover {
-    color: green;
+    color: gold;
   }
   
   a:active {
